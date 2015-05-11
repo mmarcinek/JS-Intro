@@ -33,9 +33,9 @@ var born = 1983;
 var today = 2015;
 
 var timAge = today - born;
-var statement = 'Tim is' + " " + timAge + " " + "years old";
+var phrase = 'Tim is' + " " + timAge + " " + "years old";
 
-console.log(statement);
+console.log(phrase);
 
 
 // Store some information following in variables.
