@@ -13,7 +13,7 @@ givenName = "JD";
 
 var greeting = "Hello, how are you?";
 // Q: What is `greeting` set to?
-//'greeting' is set to the value "Hello, how are you?"
+//'greeting' is set to the string value "Hello, how are you?"
 
 var high = 50;
 var low  = 10;
